@@ -18,8 +18,9 @@
     }
   ],
   "dependencies": {
+    "electron-builder-squirrel-windows": "^19.3.0",
     "electron-windows-notifications": "^1.1.13",
-    "electron-builder-squirrel-windows": "^19.3.0"
+    "gulp-run-command": "0.0.9"
   },
   "devDependencies": {
     "appium": "^1.6.0",
